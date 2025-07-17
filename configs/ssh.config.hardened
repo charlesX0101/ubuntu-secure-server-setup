@@ -1,0 +1,19 @@
+# Hardened SSH Configuration Example
+# This file reflects only the modified or enforced settings used in the lab
+
+
+Port 22
+Protocol 2
+PermitRootLogin no
+PasswordAuthentication no
+ChallengeResponseAuthentication no
+UsePAM yes
+X11Forwarding no
+AllowTcpForwarding no
+AllowAgentForwarding no
+ClientAliveInterval 300
+ClientAliveCountMax 2
+LoginGraceTime 30
+MaxAuthTries 3
+PubkeyAuthentication yes
+AuthorizedKeysFile .ssh/authorized_keys

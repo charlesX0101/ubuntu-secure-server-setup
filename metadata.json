@@ -1,0 +1,19 @@
+{
+  "title": "Ubuntu Secure Server Setup",
+  "description": "A hands-on lab that walks through setting up and hardening an Ubuntu Server LTS virtual machine using QEMU/KVM. Covers secure partitioning, SSH key authentication, firewall configuration, and system update best practices.",
+  "author": "Charles Roy",
+  "date_created": "2025-07-16",
+  "lab_type": "SysAdmin | Security",
+  "tools_used": ["Ubuntu Server 22.04 LTS", "QEMU/KVM", "virt-manager", "SSH", "UFW", "fastfetch"],
+  "screenshots": [
+    "screenshots/01_partition_layout.png",
+    "screenshots/02_curtin_install_log.png",
+    "screenshots/03_login_tty1_screen.png",
+    "screenshots/04_ssh_host_view.png",
+    "screenshots/05_logged_in_motd_summary.png",
+    "screenshots/06_ufw_status_verbose.png",
+    "screenshots/07_sshd_config_hardening.png"
+  ],
+  "tags": ["ubuntu", "linux", "sysadmin", "virtualization", "ssh", "firewall", "lab", "portfolio"]
+}
+
