@@ -82,8 +82,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-Charles Roy 
-Pop!_OS / Linux System Administrator
+Charlesx0101
 Focused on security, infrastructure, and clean system design.
 
 
