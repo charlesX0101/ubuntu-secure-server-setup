@@ -1,3 +1,5 @@
+[[/CharlesX0101]](https://charlesx0101.com/) [[/About]](http://charlesx0101.com/about) [[/Labs]](https://charlesx0101.com/labs) [[/Projects]](https://charlesx0101.com/projects) [[/Contact]](https://charlesx0101.com/contact) 
+
 # Ubuntu Secure Server Setup
 
 This lab shows a clean, simple, and security-focused setup of Ubuntu Server LTS in a virtual machine using QEMU. It covers the steps from partitioning and installation to SSH hardening and firewall setup. This project is part of a larger effort to highlight practical system administration and basic cybersecurity skills through reproducible labs.
